@@ -1,0 +1,6 @@
+{
+  "name": "IkanKu",
+  "description": "Native Android Jastiper (courier & personal shopper) dashboard for purchasing and delivering fresh fish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
